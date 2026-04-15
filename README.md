@@ -64,8 +64,12 @@ get app name and password from this   https://myaccount.google.com/apppasswords?
 4. Set up environment variables:
    Create a `.env` file in the root directory and add your API keys:
    ```env
-   GROQ_API_KEY=your_groq_key
-   GOOGLEGEMINI_API_KEY=your_gemini_key
+   GROQ_API_KEY="your_api_key"
+   GOOGLE_API_KEY="your_api_key"
+   GEMINI_API_KEY="your_api_key"
+   MY_EMAIL="your_email"
+   MY_APP_NAME="your_app_name"
+   MY_APP_PASSWORD="your_app_password"
    ```
 
 ## Usage
