@@ -56,3 +56,44 @@ python final_main.py
 
 - **Chat Interface**: Type messages directly or use the Voice button to speak to the assistant.
 - **Settings**: Use the Settings tab to switch your active model provider and configure Ollama models.
+
+# Luna AI scrrenshots
+
+### Home Screen
+![Home](https://github.com/shivanshu099/luna_agent_chatbot_version_3/blob/main/Screenshot_1.png)
+
+### Settings
+![Settings](https://github.com/shivanshu099/luna_agent_chatbot_version_3/blob/main/Screenshot_2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
