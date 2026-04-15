@@ -1,0 +1,48 @@
+# Environments
+venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Data / Models
+luna_memory_db/
+*.onnx
+*.onnx.json
+config.json
+
+# Executables
+*.exe
+*.bin
+0.9.2/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignored Scripts
+main.py
+run_nuitka.bat
+run.bat
+run_final.bat
+
+
+
+
+
+
+
+
+
+
+
+
